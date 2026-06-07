@@ -1,0 +1,6 @@
+{
+  "name": "Mohammad Jaffer Sameer Portfolio",
+  "description": "The professional, minimalist portfolio showcase of Mohammad Jaffer Sameer. Explore project demonstrations in NLP document summarization, real-time object detection telemetry wrappers, and interactive predictive game solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
